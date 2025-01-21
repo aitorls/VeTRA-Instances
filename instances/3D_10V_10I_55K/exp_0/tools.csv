@@ -1,0 +1,11 @@
+name,source_ref,sink_ref,use_cost
+tool_0,depot_1,depot_1,10
+tool_1,depot_1,depot_1,10
+tool_2,depot_2,depot_2,10
+tool_3,depot_2,depot_2,10
+tool_4,depot_0,depot_0,10
+tool_5,depot_1,depot_1,10
+tool_6,depot_0,depot_0,10
+tool_7,depot_0,depot_0,10
+tool_8,depot_1,depot_1,10
+tool_9,depot_1,depot_1,10

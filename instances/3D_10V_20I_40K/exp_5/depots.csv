@@ -1,0 +1,4 @@
+name,x,y,start_time,end_time
+depot_0,22,27,0,720
+depot_1,28,0,0,720
+depot_2,10,10,0,720
